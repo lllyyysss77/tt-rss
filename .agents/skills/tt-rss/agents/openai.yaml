@@ -1,0 +1,6 @@
+interface:
+  display_name: "Tt Rss"
+  short_description: "Repo-specific patterns and workflows for tt-rss"
+  default_prompt: "Use the tt-rss repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
